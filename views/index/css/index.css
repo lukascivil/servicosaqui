@@ -1,0 +1,26 @@
+body {
+    background-color: #fafafa; 
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.card-image img {
+    height: 150px !important;
+    width: 150px !important;
+}
+
+.card {
+	cursor: pointer;
+}
+
+.pagination li {
+	padding: 0 18px;
+}
+
+.pagination li.active {
+    background: #00bcd4;
+    color: #fff;
+}

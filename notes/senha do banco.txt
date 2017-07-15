@@ -1,0 +1,4 @@
+------------ senha do banco -------------
+username : servicosaqui 
+password : cafe
+-----------------------------------------

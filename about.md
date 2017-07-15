@@ -1,0 +1,1 @@
+A aplicação não é a versão final, entretanto para a disciplina ela é!

@@ -1,0 +1,13 @@
+body {
+	background-color: #fafafa; 
+}
+
+.container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.card-image img {
+	height: 150px !important;
+	width: 150px !important;
+}
